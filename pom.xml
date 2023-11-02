@@ -9,7 +9,7 @@
   <groupId>devops.ilp1</groupId>
   <artifactId>ILP</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.${build.number}-SNAPSHOT</version>
   <name>ILP1UserMgmt Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
